@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a passionate full-stack developer exploring the exciting worlds of web development, blockchain, and competitive programming. With a keen interest in mastering C++ for Data Structures and Algorithms, I thrive on solving challenging problems and constantly pushing my boundaries. My journey in tech includes building innovative projects, delving into the latest technologies, and honing my skills in problem-solving. I aim to combine creativity and logic to contribute to impactful solutions while inspiring others through my learning journey.<br><br>
 
+and my main personal github account is https://github.com/Mohammed-Thaha
+
 ## 🌐 Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itz__me__thaha) 
