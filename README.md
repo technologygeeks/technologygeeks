@@ -16,7 +16,7 @@ and my main personal github account is https://github.com/Mohammed-Thaha
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=technologygeeks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![]![mohammed-thaha's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-thaha&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=technologygeeks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologygeeks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
